@@ -1,0 +1,49 @@
+#chile4, #peru5, #peru6{
+	display:block;
+}
+
+#promociones{
+	margin: 0;
+	text-align: center;
+}
+
+img{
+	width: 250px;
+	border-radius: 40px;
+	height: 250px;
+	
+}
+
+h1{
+	text-align: center;
+	color: green;
+	font-size: xx-large;
+}
+
+select{
+	background-color: #AFEEEE;
+	-webkit-border-radius: 5px;
+   	-moz-border-radius: 5px;
+   	border-radius: 5px;
+}
+
+.chile4:hover
+{
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+}
+
+.peru5:hover
+{
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+}
+
+.peru6:hover
+{
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+}
