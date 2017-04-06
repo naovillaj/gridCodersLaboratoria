@@ -11,7 +11,7 @@ img{
 	width: 250px;
 	border-radius: 40px;
 	height: 250px;
-	
+
 }
 
 h1{
@@ -32,6 +32,7 @@ select{
 -webkit-transform: scale(1.2);
 -ms-transform: scale(1.2);
 transform: scale(1.2);
+background-color: yellow;
 }
 
 .peru5:hover
@@ -39,6 +40,7 @@ transform: scale(1.2);
 -webkit-transform: scale(1.2);
 -ms-transform: scale(1.2);
 transform: scale(1.2);
+background-color: yellow;
 }
 
 .peru6:hover
@@ -46,4 +48,5 @@ transform: scale(1.2);
 -webkit-transform: scale(1.2);
 -ms-transform: scale(1.2);
 transform: scale(1.2);
+background-color: yellow;
 }
